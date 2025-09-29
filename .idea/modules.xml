@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Beregne BMI/Beregne BMI.iml" filepath="$PROJECT_DIR$/Beregne BMI/Beregne BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Date Validator and Day Calculator/Date Validator and Day Calculator.iml" filepath="$PROJECT_DIR$/Date Validator and Day Calculator/Date Validator and Day Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/OBJ2000.iml" filepath="$PROJECT_DIR$/OBJ2000.iml" />
       <module fileurl="file://$PROJECT_DIR$/Quadratic Equation Solver/Quadratic Equation Solver.iml" filepath="$PROJECT_DIR$/Quadratic Equation Solver/Quadratic Equation Solver.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sout Mønster/Scout Mønster.iml" filepath="$PROJECT_DIR$/Sout Mønster/Scout Mønster.iml" />
