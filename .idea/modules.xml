@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays i dataklynger/Arrays i dataklynger.iml" filepath="$PROJECT_DIR$/Arrays i dataklynger/Arrays i dataklynger.iml" />
       <module fileurl="file://$PROJECT_DIR$/Beregne BMI/Beregne BMI.iml" filepath="$PROJECT_DIR$/Beregne BMI/Beregne BMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Date Validator and Day Calculator/Date Validator and Day Calculator.iml" filepath="$PROJECT_DIR$/Date Validator and Day Calculator/Date Validator and Day Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lokkeutfordringen/Lokkeutfordringen.iml" filepath="$PROJECT_DIR$/Lokkeutfordringen/Lokkeutfordringen.iml" />
